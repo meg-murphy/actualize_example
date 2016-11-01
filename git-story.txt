@@ -1,0 +1,7 @@
+This is a story about nothing.
+We are testing out git.
+This is cool.
+
+Now I'm changing this file...
+
+and adding another line.
